@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# Папки с отчетами (чтобы не коммитить в git)
+reports/
+backups/
+closed_sessions/
+
+# Environment variables
+.env
+.env.local
