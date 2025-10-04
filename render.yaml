@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: cosmopark-bot
+    name: LK_bot_finall
     env: python
     plan: free
     pythonVersion: "3.11.8"
